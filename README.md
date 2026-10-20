@@ -104,6 +104,9 @@ This repository focuses on collecting resources related to **Guided Image Super-
 
 | 年份<br>Year | 标题<br>Title | 简称<br>Abbr. | 期刊/会议<br>Published | 代码<br>Code | 关键词<br>Keywords |
 | ---- | ------------- | ------------- | ---------------------- | ------------ | ------------------ |
+| 2026 | DuaDiff: Dual-Conditional Diffusion Model for Guided Thermal Image Super-Resolution | DuaDiff | [TNNLS](https://doi.org/10.1109/TNNLS.2025.3640168) | [TBA](https://github.com/shilinrui/DuaDiff) | Diffusion-based, Dual-conditional, Cross-modal fusion |
+| 2026 | Exploring Diffusion-generated Guidance for Thermal Image Super-resolution | --- | [WACV](https://openaccess.thecvf.com/content/WACV2026W/RWS/html/Ramos_Exploring_Diffusion-generated_Guidance_for_Thermal_Image_Super-resolution_WACVW_2026_paper.html) | --- | Diffusion-based, Pseudo-thermal guidance, Model-agnostic |
+| 2026 | Diff-GTISR: Guided Thermal Image Super-Resolution via Diffusion Model and Refinement | Diff-GTISR | [Appl. Sci.](https://doi.org/10.3390/app16073435) | --- | Diffusion-based, Cross-modal guidance attention, Refinement |
 | 2026 | Laplacian reconstructive network for guided thermal super-resolution | LapGSR | [Sci. Rep](https://www.nature.com/articles/s41598-026-36027-x) | [Code](https://github.com/uverma/LapGSR) | Multi-stage, Cross-modal fusion |
 | 2026 | Visible-Light-Guided Infrared Image Super  Resolution With Dual Amplitude-Phase Optimization | vap-SR | [JSTARS](https://doi.org/10.1109/JSTARS.2026.3655485) | [Code](https://github.com/KustTeamWQW/vap-SR) | Diffusion-based|
 | 2025 | A Swin Transformer-Based Framework for RGB-Guided Thermal Image Super-Resolution | SwinPaste | [CVPR](https://openaccess.thecvf.com/content/CVPR2025W/PBVS/html/Zhong_SwinPaste_A_Swin_Transformer-Based_Framework_for_RGB-Guided_Thermal_Image_Super-Resolution_CVPRW_2025_paper.html) | --- | Swin Transformer, Attention, Multi-stage |
